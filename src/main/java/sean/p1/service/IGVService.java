@@ -13,7 +13,7 @@ import java.math.BigDecimal;
  */
 public interface IGVService {
 
-    double IGV_PERCENT_VALUE = 0.18;
+    double IGV_PERCENT_VALUE = 0.19;
 
     public BigDecimal calculateIgvFromAmount(BigDecimal amount);
 }
