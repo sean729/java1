@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package reto.intercorp.renzocarpio.service;
+package reto.sean.p1.service;
 
 import io.micronaut.test.annotation.MicronautTest;
 import org.junit.jupiter.params.ParameterizedTest;
